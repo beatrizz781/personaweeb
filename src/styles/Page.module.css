@@ -1,0 +1,27 @@
+.home{
+    color: #E67E22;
+    min-height: 50vh;
+
+}
+
+.objeto{
+    min-height: 210vh;
+    color: #E67E22;
+}
+
+.profile{
+    min-height: 50vh;
+    color: #E67E22;
+
+}
+
+.profile h2{
+    margin-bottom: 8px;
+}
+
+
+.user{
+    margin-top: 3px;
+    text-align: end;
+    color: #E67E22;
+}

@@ -1,0 +1,26 @@
+@font-face {
+  font-family: '<link>Josefin Sans</link>';
+  src: url('fontes/JosefinSans.ttf') format('truetype');
+  /* Adicione outros formatos de fonte, como woff, woff2, etc., conforme necessário */
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-family: '<link>Josefin Sans</link>';
+
+}
+
+a {
+  color: #45496e;
+}
+
+p {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+.volt{
+  color: black;
+
+}
