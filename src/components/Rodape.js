@@ -5,7 +5,6 @@ export default function Rodape() {
             <p> IFMS Dourados – Trabalho de Frameworks2 – Prof. Ricardo</p>
             <p>Amanada Moura</p>
             <p>Beatriz Lopes</p>
-            <p>Jucielly Goncalves</p>
 
         </footer>
 
